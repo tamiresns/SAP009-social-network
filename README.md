@@ -5,6 +5,8 @@
 
 Nosso projeto é uma rede social que foi desenvolvido para o público alvo em geral com o foco para cuidados capilares e faciais. onde os usuário podem postar dúvidas, sugestões e dicas sobre o auto cuidado. Estamos vivendo uma gereção em que as pessoas estão se interessando, cada vez mais, com a estética, auto-estima e saúde. Portanto, a ideia do nosso projeto, foi suprir e acresentar tudo issa na vida dessas pessoas.
 
+[link do projeto:](social-network-6f67b.web.app)
+
 ## 2. História de Usuário
  **Cadastro**
  <p>Usuário se interessa pela ideia e pretende se cadastrar para dar dicas e tirar dúvidas no site. O cadastro tem a opção de ser via conta do Google ou via email, nome e senha.</p>
